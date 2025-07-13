@@ -6,7 +6,7 @@ This space is a collection of my projects, code, and experiments as I develop an
 
 ---
 
-## What You’ll Find Here
+## What You’ll Find in my Repos
 
 - **Learning projects:** Hands-on assignments and experiments where I explored new tools, techniques, and datasets.
 - **Academic work:** Coursework involving real-world data and business problems, demonstrating applied skills.
