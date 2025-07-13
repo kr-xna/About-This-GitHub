@@ -1,5 +1,3 @@
-# About-This-GitHub
-
 # About This GitHub
 
 Welcome to my GitHub profile!  
